@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704372666556",
+    "project_id": "milu-c4540",
+    "storage_bucket": "milu-c4540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704372666556:android:05717cee2ba29f189260b9",
+        "android_client_info": {
+          "package_name": "com.milu.milu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2Dk-YAUomHR2K4RKcb8Wtm2LKcsf0po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
